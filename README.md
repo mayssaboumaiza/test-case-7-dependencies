@@ -1,2 +1,2 @@
 # test-case-7-dependencies
-Cloud Migrator test: explicit service dependencies
+AWS infra with explicit depends_on and cross-resource references.
